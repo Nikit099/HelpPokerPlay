@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HelpPokerPlay/static/css/main.0a2202f3.css",
+    "main.js": "/HelpPokerPlay/static/js/main.29bc013a.js",
+    "index.html": "/HelpPokerPlay/index.html",
+    "main.0a2202f3.css.map": "/HelpPokerPlay/static/css/main.0a2202f3.css.map",
+    "main.29bc013a.js.map": "/HelpPokerPlay/static/js/main.29bc013a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2202f3.css",
+    "static/js/main.29bc013a.js"
+  ]
+}
